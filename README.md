@@ -7,4 +7,5 @@ Kerberos est un protocole d'authentification réseau largement utilisé qui four
 ![App Screenshot](https://github.com/JawherBenjabeur/Kerberos/blob/main/Kerberos.png) 
 # Architecture de Kerberos
 L'architecture Kerberos se compose de trois composants principaux : le client, le serveur et le serveur d'authentification Kerberos (KDC). Le KDC est responsable de l'émission et de la vérification des tickets, tandis que le client et le serveur utilisent ces tickets pour s'authentifier et accéder aux ressources réseau en toute sécurité. Le protocole utilise la cryptographie à clef symétrique et l'authentification mutuelle pour fournir la vérification d'identité sécurisée sur les systèmes distribués.
+
 ![App Screenshot](https://github.com/JawherBenjabeur/Kerberos/blob/main/Kerberos%20arch.png)
